@@ -277,14 +277,3 @@ This project demonstrates:
 3. **Classical + Modern Integration:** Combining classical computer vision interpretability with deep learning performance creates more robust, trustworthy systems
 
 4. **Deployment Considerations:** Lightweight models (8.63 MB) enable real-world deployment on mobile and embedded systems for field conservation work
-
-## 🔮 Future Improvements
-
-- Implement data augmentation (rotation, flip, zoom, brightness) to improve robustness
-- Unfreeze and fine-tune deeper model layers for more task-specific learning
-- Collect images emphasizing distinguishing features (horn visibility for rhinos)
-- Implement Grad-CAM visualization to understand model decision-making
-- Test alternative architectures (ResNet50, EfficientNet, Vision Transformers)
-- Deploy on camera trap networks and validate with real-world field data
-- Expand to classify more African wildlife species
-- Implement human-in-the-loop systems for high-stakes conservation decisions
